@@ -1,4 +1,8 @@
 _repo: The-Young-Oarsmen-of-Lakeview_50201
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50201-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50201#The-Young-Oarsmen-of-Lakeview
 gutenberg_issued: '2015-10-13'
 gutenberg_type: Text
 identifiers:
